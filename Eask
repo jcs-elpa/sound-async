@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "sound-async" 
          "0.1.0" 
          "Play sound asynchronously")
